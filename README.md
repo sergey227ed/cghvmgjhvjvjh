@@ -1,0 +1,1 @@
+/mnt/data/A_traditional_painting,_possibly_created_with_oil_.png
